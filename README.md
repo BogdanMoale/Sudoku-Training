@@ -1,5 +1,7 @@
 # Sudoku-Training
 
+https://bogdanmoale.github.io/Sudoku-Training/
+
 ## Overview
 Sudoku Training Game is a web-based application designed to provide an interactive and challenging Sudoku puzzle-solving experience. It offers three difficulty levels—Easy, Normal, and Hard—allowing players to choose their preferred level of challenge. The game provides a responsive and intuitive user interface, making it accessible across various devices, including desktops, laptops, tablets, and mobile phones.
 
